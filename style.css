@@ -1,0 +1,38 @@
+
+#customerProfiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: white;
+    font-family: sans-serif;
+    border: rgb(5, 36, 100) solid 4px;
+    text-align: center; 
+    margin: 20px;
+    padding: 20px;
+  }
+
+  img {
+    border-radius: 0em 0em 15em 15em; 
+    padding-top: 15px; 
+    width: 125px; 
+}
+
+ h2 {
+    color: #74a0ae;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 5px 0px; 
+    width: 286px; 
+    background-color: #f3efa7; 
+    text-align: center;
+}
+
+p {
+    color: #840916;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 10px 10px; 
+    width: 300px; 
+    background-color: #f3efa7; 
+    text-align: center;
+}
